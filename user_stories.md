@@ -10,7 +10,7 @@ In order to actively engage with interesting people in my area
 as a prospector  
 I want to join-in to 'active get-togethers' that I find interesting  
   
-# Organizer invites interesting person to his active get-together  
+# Organizer invites interesting person to his 'active get-together'  
   
 In order to actively engage with a person that has attractive interests profile  
 as an organizer  
