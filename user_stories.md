@@ -1,7 +1,7 @@
 # Organizer announces opportunity for 'active get-together' in his area  
 
 In order to meet people I can actively engage with around my interest  
-as an organizer
+as an organizer  
 I want to announce an opportunity for an 'active get-together' in my area  
   
 # Prospector joins-in to interesting activities in her area  
